@@ -17,15 +17,15 @@ namespace KonsolToplamaUygulaması
             int donusum2;
             int toplam;
             int sonuc;
-            Console.WriteLine("birinci Sayıyı giriniz:");
+            Console.WriteLine("Birinci Sayıyı Giriniz:");
             sayi1 = Console.ReadLine();
-            Console.WriteLine("ikinci sayıyı giriniz:");
+            Console.WriteLine("İkinci Sayıyı Giriniz:");
             sayi2 = Console.ReadLine();
             donusum1 = Convert.ToInt32(sayi1);
             donusum2 = Convert.ToInt32(sayi2);
             toplam = donusum1 + donusum2;
             sonuc = toplam;
-            Console.WriteLine("girdiğiniz iki sayının toplamı: " + sonuc);
+            Console.WriteLine("Girdiğiniz İki Sayının Toplamı: " + sonuc);
             Console.ReadKey();
 
 
