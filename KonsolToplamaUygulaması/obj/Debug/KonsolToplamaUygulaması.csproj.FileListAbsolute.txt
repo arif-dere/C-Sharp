@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\KonsolToplamaUygulaması\bin\Debug\KonsolToplamaUygulaması.exe.config
+C:\Users\HP\source\repos\KonsolToplamaUygulaması\bin\Debug\KonsolToplamaUygulaması.exe
+C:\Users\HP\source\repos\KonsolToplamaUygulaması\bin\Debug\KonsolToplamaUygulaması.pdb
+C:\Users\HP\source\repos\KonsolToplamaUygulaması\obj\Debug\KonsolToplamaUygulaması.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KonsolToplamaUygulaması\obj\Debug\KonsolToplamaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KonsolToplamaUygulaması\obj\Debug\KonsolToplamaUygulaması.exe
+C:\Users\HP\source\repos\KonsolToplamaUygulaması\obj\Debug\KonsolToplamaUygulaması.pdb
