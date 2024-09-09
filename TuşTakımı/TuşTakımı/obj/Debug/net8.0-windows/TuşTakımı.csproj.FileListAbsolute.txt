@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\bin\Debug\net8.0-windows\TuşTakımı.exe
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\bin\Debug\net8.0-windows\TuşTakımı.deps.json
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\bin\Debug\net8.0-windows\TuşTakımı.runtimeconfig.json
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\bin\Debug\net8.0-windows\TuşTakımı.dll
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\bin\Debug\net8.0-windows\TuşTakımı.pdb
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.Form1.resources
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.AssemblyInfo.cs
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.dll
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\refint\TuşTakımı.dll
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.pdb
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\TuşTakımı.genruntimeconfig.cache
+C:\Users\HP\source\repos\TuşTakımı\TuşTakımı\obj\Debug\net8.0-windows\ref\TuşTakımı.dll
