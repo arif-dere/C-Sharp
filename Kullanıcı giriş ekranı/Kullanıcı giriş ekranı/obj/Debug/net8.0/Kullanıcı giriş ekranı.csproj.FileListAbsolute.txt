@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\bin\Debug\net8.0\Kullanıcı giriş ekranı.exe
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\bin\Debug\net8.0\Kullanıcı giriş ekranı.deps.json
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\bin\Debug\net8.0\Kullanıcı giriş ekranı.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\bin\Debug\net8.0\Kullanıcı giriş ekranı.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\bin\Debug\net8.0\Kullanıcı giriş ekranı.pdb
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\Kullanıcı giriş ekranı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\Kullanıcı giriş ekranı.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\Kullanıcı giriş ekranı.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\Kullanıcı giriş ekranı.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\Kullanıcı giriş ekranı.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\refint\Kullanıcı giriş ekranı.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\Kullanıcı giriş ekranı.pdb
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\Kullanıcı giriş ekranı.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Kullanıcı giriş ekranı\Kullanıcı giriş ekranı\obj\Debug\net8.0\ref\Kullanıcı giriş ekranı.dll
