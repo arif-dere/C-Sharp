@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\bin\Debug\net9.0\kelimeCeviriBuyukKucuk.exe
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\bin\Debug\net9.0\kelimeCeviriBuyukKucuk.deps.json
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\bin\Debug\net9.0\kelimeCeviriBuyukKucuk.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\bin\Debug\net9.0\kelimeCeviriBuyukKucuk.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\bin\Debug\net9.0\kelimeCeviriBuyukKucuk.pdb
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\kelimeCeviriBuyukKucuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\kelimeCeviriBuyukKucuk.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\kelimeCeviriBuyukKucuk.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\kelimeCeviriBuyukKucuk.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\kelimeCeviriBuyukKucuk.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\refint\kelimeCeviriBuyukKucuk.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\kelimeCeviriBuyukKucuk.pdb
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\kelimeCeviriBuyukKucuk.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\kelimeCeviriBuyukKucuk\kelimeCeviriBuyukKucuk\obj\Debug\net9.0\ref\kelimeCeviriBuyukKucuk.dll
