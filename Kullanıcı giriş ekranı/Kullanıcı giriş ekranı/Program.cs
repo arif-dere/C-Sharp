@@ -43,7 +43,7 @@ namespace KullanıcıGirisEkranı
                         }
                         else
                         {
-                            Console.WriteLine("Sisteme Hoş Geldiniz {0} Bey", kAd);
+                            Console.WriteLine("Sisteme Hoş Geldiniz {0} Bey", kAd.ToUpper());
                             break;
                         }
                     }
