@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\bin\Debug\net9.0\Dize uzunluk hesaplayıcı.exe
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\bin\Debug\net9.0\Dize uzunluk hesaplayıcı.deps.json
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\bin\Debug\net9.0\Dize uzunluk hesaplayıcı.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\bin\Debug\net9.0\Dize uzunluk hesaplayıcı.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\bin\Debug\net9.0\Dize uzunluk hesaplayıcı.pdb
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\Dize uzunluk hesaplayıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\Dize uzunluk hesaplayıcı.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\Dize uzunluk hesaplayıcı.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\Dize uzunluk hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\Dize uzunluk hesaplayıcı.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\refint\Dize uzunluk hesaplayıcı.dll
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\Dize uzunluk hesaplayıcı.pdb
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\Dize uzunluk hesaplayıcı.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\c# kitap\Dize uzunluk hesaplayıcı\Dize uzunluk hesaplayıcı\obj\Debug\net9.0\ref\Dize uzunluk hesaplayıcı.dll

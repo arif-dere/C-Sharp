@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Dize uzunluk hesaplayıcı/1.0.0": {
+        "runtime": {
+          "Dize uzunluk hesaplayıcı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dize uzunluk hesaplayıcı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
